@@ -1,0 +1,1 @@
+let hours_worked = [("Twesha", 9); ("Oishani", 6); ("Tarannum", 7)]

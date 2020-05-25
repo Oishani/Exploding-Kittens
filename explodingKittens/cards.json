@@ -1,0 +1,208 @@
+{
+  "cards": [
+    {
+      "name": "See the Future",
+      "instruction": "Get a sneak-peak into the future! Look at the 3 cards at the top of the Draw Pile, but you can't hold on to them! Put them back in the same order and don't let your opponents take a glance!"
+    },
+    {
+      "name": "See the Future",
+      "instruction": "Get a sneak-peak into the future! Look at the 3 cards at the top of the Draw Pile, but you can't hold on to them! Put them back in the same order and don't let your opponents take a glance!"
+    },
+    {
+      "name": "See the Future",
+      "instruction": "Get a sneak-peak into the future! Look at the 3 cards at the top of the Draw Pile, but you can't hold on to them! Put them back in the same order and don't let your opponents take a glance!"
+    },
+    {
+      "name": "See the Future",
+      "instruction": "Get a sneak-peak into the future! Look at the 3 cards at the top of the Draw Pile, but you can't hold on to them! Put them back in the same order and don't let your opponents take a glance!"
+    },
+    {
+      "name": "See the Future",
+      "instruction": "Get a sneak-peak into the future! Look at the 3 cards at the top of the Draw Pile, but you can't hold on to them! Put them back in the same order and don't let your opponents take a glance!"
+    },
+    {
+      "name": "Draw from Bottom",
+      "instruction": "You get to pick a card from the bottom of the pile! Bottoms up ;)"
+    },
+    {
+      "name": "Draw from Bottom",
+      "instruction": "You get to pick a card from the bottom of the pile! Bottoms up ;)"
+    },
+    {
+      "name": "Draw from Bottom",
+      "instruction": "You get to pick a card from the bottom of the pile! Bottoms up ;)"
+    },
+    {
+      "name": "Draw from Bottom",
+      "instruction": "You get to pick a card from the bottom of the pile! Bottoms up ;)"
+    },
+    {
+      "name": "Draw from Bottom",
+      "instruction": "You get to pick a card from the bottom of the pile! Bottoms up ;)"
+    },
+    {
+      "name": "Shuffle",
+      "instruction": "You're now at the mercy of your opponents. Shuffle the Draw Pile until asked to stop; but no peeking!. Remember: this can save you from the dreaded Exploding Kittens..."
+    },
+    {
+      "name": "Shuffle",
+      "instruction": "You're now at the mercy of your opponents. Shuffle the Draw Pile until asked to stop; but no peeking!. Remember: this can save you from the dreaded Exploding Kittens..."
+    },
+    {
+      "name": "Shuffle",
+      "instruction": "You're now at the mercy of your opponents. Shuffle the Draw Pile until asked to stop; but no peeking!. Remember: this can save you from the dreaded Exploding Kittens..."
+    },
+    {
+      "name": "Shuffle",
+      "instruction": "You're now at the mercy of your opponents. Shuffle the Draw Pile until asked to stop; but no peeking!. Remember: this can save you from the dreaded Exploding Kittens..."
+    },
+    {
+      "name": "Skip",
+      "instruction": "Skip your chance and let the next player deal with the uncertainties of the deck."
+    },
+    {
+      "name": "Skip",
+      "instruction": "Skip your chance and let the next player deal with the uncertainties of the deck."
+    },
+    {
+      "name": "Skip",
+      "instruction": "Skip your chance and let the next player deal with the uncertainties of the deck."
+    },
+    {
+      "name": "Skip",
+      "instruction": "Skip your chance and let the next player deal with the uncertainties of the deck."
+    },
+    {
+      "name": "Attack",
+      "instruction": "Hehehe time to take your anger out on the next player! Force them to take two turns instead of one. Cheers :)"
+    },
+    {
+      "name": "Attack",
+      "instruction": "Hehehe time to take your anger out on the next player! Force them to take two turns instead of one. Cheers :)"
+    },
+    {
+      "name": "Attack",
+      "instruction": "Hehehe time to take your anger out on the next player! Force them to take two turns instead of one. Cheers :)"
+    },
+    {
+      "name": "Attack",
+      "instruction": "Hehehe time to take your anger out on the next player! Force them to take two turns instead of one. Cheers :)"
+    },
+    {
+      "name": "Nope",
+      "instruction": "You have been bestowed with a superpower. You now have the ability to stop an 'Attack' or a 'Favor' but not a Defuse Card or an Exploding Kitten Card. Imagine that any card (or Pair of Cat Cards) beneath a Nope Card no longer exists.\nYou can play a Nope Card at any time before an action has begun if it's your turn next. Any cards that have been noped are lost. They are left in the Discard Pile."
+    },
+    {
+      "name": "Nope",
+      "instruction": "You have been bestowed with a superpower. You now have the ability to stop an 'Attack' or a 'Favor' but not a Defuse Card or an Exploding Kitten Card. Imagine that any card (or Pair of Cat Cards) beneath a Nope Card no longer exists.\nYou can play a Nope Card at any time before an action has begun if it's your turn next. Any cards that have been noped are lost. They are left in the Discard Pile."
+    },
+    {
+      "name": "Nope",
+      "instruction": "You have been bestowed with a superpower. You now have the ability to stop an 'Attack' or a 'Favor' but not a Defuse Card or an Exploding Kitten Card. Imagine that any card (or Pair of Cat Cards) beneath a Nope Card no longer exists.\nYou can play a Nope Card at any time before an action has begun if it's your turn next. Any cards that have been noped are lost. They are left in the Discard Pile."
+    },
+    {
+      "name": "Nope",
+      "instruction": "You have been bestowed with a superpower. You now have the ability to stop an 'Attack' or a 'Favor' but not a Defuse Card or an Exploding Kitten Card. Imagine that any card (or Pair of Cat Cards) beneath a Nope Card no longer exists.\nYou can play a Nope Card at any time before an action has begun if it's your turn next. Any cards that have been noped are lost. They are left in the Discard Pile."
+    },
+    {
+      "name": "Nope",
+      "instruction": "You have been bestowed with a superpower. You now have the ability to stop an 'Attack' or a 'Favor' but not a Defuse Card or an Exploding Kitten Card. Imagine that any card (or Pair of Cat Cards) beneath a Nope Card no longer exists.\nYou can play a Nope Card at any time before an action has begun if it's your turn next. Any cards that have been noped are lost. They are left in the Discard Pile."
+    },
+    {
+      "name": "Favor",
+      "instruction": "Be snarky and steal a card from a player of your choice. Caveat: they choose the card."
+    },
+    {
+      "name": "Favor",
+      "instruction": "Be snarky and steal a card from a player of your choice. Caveat: they choose the card."
+    },
+    {
+      "name": "Favor",
+      "instruction": "Be snarky and steal a card from a player of your choice. Caveat: they choose the card."
+    },
+    {
+      "name": "Favor",
+      "instruction": "Be snarky and steal a card from a player of your choice. Caveat: they choose the card."
+    },
+    {
+      "name": "Rainbow Cat",
+      "instruction": "Over the rainbow we go"
+    },
+    {
+      "name": "Rainbow Cat",
+      "instruction": "Over the rainbow we go"
+    },
+    {
+      "name": "Rainbow Cat",
+      "instruction": "Over the rainbow we go"
+    },
+    {
+      "name": "Rainbow Cat",
+      "instruction": "Over the rainbow we go"
+    },
+    {
+      "name": "Hairy Potato Cat",
+      "instruction": "is it po-tat-o or pot-a-to"
+    },
+    {
+      "name": "Hairy Potato Cat",
+      "instruction": "is it po-tat-o or pot-a-to"
+    },
+    {
+      "name": "Hairy Potato Cat",
+      "instruction": "is it po-tat-o or pot-a-to"
+    },
+    {
+      "name": "Hairy Potato Cat",
+      "instruction": "is it po-tat-o or pot-a-to"
+    },
+    {
+      "name": "Beard Cat",
+      "instruction": "beard beard beard"
+    },
+    {
+      "name": "Beard Cat",
+      "instruction": "beard beard beard"
+    },
+    {
+      "name": "Beard Cat",
+      "instruction": "beard beard beard"
+    },
+    {
+      "name": "Beard Cat",
+      "instruction": "beard beard beard"
+    },
+    {
+      "name": "Watermelon Cat",
+      "instruction": "water-mellooooooonnnnn"
+    },
+    {
+      "name": "Watermelon Cat",
+      "instruction": "water-mellooooooonnnnn"
+    },
+    {
+      "name": "Watermelon Cat",
+      "instruction": "water-mellooooooonnnnn"
+    },
+    {
+      "name": "Watermelon Cat",
+      "instruction": "water-mellooooooonnnnn"
+    },
+    {
+      "name": "Taco Cat",
+      "instruction": "ummmmm did somebody say tacos??????"
+    },
+    {
+      "name": "Taco Cat",
+      "instruction": "ummmmm did somebody say tacos??????"
+    },
+    {
+      "name": "Taco Cat",
+      "instruction": "ummmmm did somebody say tacos??????"
+    },
+    {
+      "name": "Taco Cat",
+      "instruction": "ummmmm did somebody say tacos??????"
+    }
+  ]
+}

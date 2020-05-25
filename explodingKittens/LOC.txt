@@ -1,0 +1,4 @@
+We managed to reach all the goals that we set for ourselves at the beginning of 
+the project. There is nothing left for us to implement in the game. We realise 
+that we are slightly under the required number of lines of code but have 
+managed to implement every feature possible. 
